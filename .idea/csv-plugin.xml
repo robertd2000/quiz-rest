@@ -17,7 +17,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\quiz\urls.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\quiz\views.py">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\quiz_rest\settings.py">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\quiz_rest\urls.py">
           <value>
             <Attribute>
               <option name="separator" value="," />
