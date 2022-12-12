@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf3cb4d5-5d3a-4c9b-b90c-62c8fd824294" name="Changes" comment="add auth jwt">
+    <list default="true" id="bf3cb4d5-5d3a-4c9b-b90c-62c8fd824294" name="Changes" comment="add frontend">
+      <change afterPath="$PROJECT_DIR$/quiz/service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quiz/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz_rest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_rest/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +76,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670267858444</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add login require views">
+      <created>1670846960445</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670846960445</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add frontend">
+      <created>1670847009933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670847009933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,7 +106,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add auth jwt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add auth jwt" />
+    <MESSAGE value="add login require views" />
+    <MESSAGE value="add frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="add frontend" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
