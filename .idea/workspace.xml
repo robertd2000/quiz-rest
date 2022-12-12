@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf3cb4d5-5d3a-4c9b-b90c-62c8fd824294" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+    <list default="true" id="bf3cb4d5-5d3a-4c9b-b90c-62c8fd824294" name="Changes" comment="add auth jwt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quiz/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quiz_rest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_rest/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quiz_rest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/quiz_rest/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670165347185</updated>
     </task>
+    <task id="LOCAL-00001" summary="add auth jwt">
+      <created>1670267858444</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670267858444</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +88,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add auth jwt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add auth jwt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
